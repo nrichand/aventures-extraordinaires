@@ -10,22 +10,20 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Salut, C'est <GradientText>Nathaniel</GradientText> 👋
+          Salut, C'est <GradientText>Aventure Extraordinaire</GradientText> 👋
         </>
       }
       description={
         <>
-          Bienvenue dans votre premier site d'histoires intéractives {' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            AVENTURES EXTRAORDINAIRES !
-          </a>{' '}
-          Découvrez et participer à l'aventure de Roktok le troll, Pingi le chien policier, Elinda la fée malicieuse...
+          Votre site d'histoires interactives pour enfants qui vous emmènera à la rencontre de trolls, de dragons et de chats volants!
+          <br />
+          Suivez vos personnages préférés et choisissez leur destinée à chaque étape de l'histoire.
         </>
       }
       avatar={
         <img
-          className="w-120 h-80" 
-          src="/assets/images/aventuresExtra-cover.png"
+          className="w-80 h-120" 
+          src="/assets/images/aventuresExtra-cover-vert.png"
           alt="Avatar image"
           loading="lazy"
         />

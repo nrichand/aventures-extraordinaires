@@ -1,6 +1,8 @@
 ---
 import type { IFrontmatter } from 'astro-boilerplate-components';
 
+import { Section } from 'astro-boilerplate-components';
+
 import { CTA } from '@/partials/CTA';
 import { Hero } from '@/partials/Hero';
 import { ProjectList } from '@/partials/ProjectList';
@@ -19,4 +21,13 @@ const { description } = AppConfig;
 <Base head={{ title, description }}>
   <Hero />
   <ProjectList />
+
+  <Section>
+  	<img
+	  className="w-120 h-80" 
+	  src="/assets/images/aventuresExtra-cover.png"
+	  alt="cover image with an open book"
+	  loading="lazy"
+	/>
+  </Section>
 </Base>

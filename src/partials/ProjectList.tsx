@@ -19,7 +19,7 @@ const ProjectList = () => (
         name="Roktok le petit troll"
         description="Roktok était un petit Troll vif et curieux qui vivait dans la forêt avec sa famille. Un jour, alors qu'il explorait les alentours, il s'était perdu et ne savait plus comment retrouver sa maison..."
         link="/Roktok-1"
-        img={{ src: '/assets/images/project-troll.png', alt: 'Project Fire' }}
+        img={{ src: '/assets/images/project-troll.png', alt: 'Project Troll' }}
         category={
           <>
             <Tags color={ColorTags.VIOLET}>Troll</Tags>
@@ -27,6 +27,19 @@ const ProjectList = () => (
           </>
         }
       />
+
+      <Project
+        name="Pingi mène l'enquête"
+        description="Pingi était un chien policier très intelligent et déterminé. Depuis qu'il avait rejoint la brigade canine, il avait résolu de nombreuses enquêtes..."
+        link="/Pingi-1"
+        img={{ src: '/assets/images/project-pingi.png', alt: 'Project Pingi' }}
+        category={
+          <>
+            <Tags color={ColorTags.VIOLET}>Enquête</Tags>
+            <Tags color={ColorTags.RED}>Chien policier</Tags>
+          </>
+        }
+      />      
     </div>
   </Section>
 );
