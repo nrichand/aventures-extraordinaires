@@ -17,5 +17,5 @@ Soudain, il entendit un petit bruissement dans les feuilles. Il se retourna et v
 Roktok fut rassuré par le ton rassurant du dragon et le suivit docilement. Le dragon le conduisit jusqu'à une clairière et lui montra comment allumer un feu pour se réchauffer. Puis il lui apprit à trouver de quoi se nourrir dans la forêt.
 
 > Que va t-il se passer maintenant pour nos deux amis ?
-> - [Ils vont rencontrer un **troll vert**](Roktok-2a)
-> - [Ils vont rencontrer un **chat volant**](Roktok-2b) 
+> - [Ils vont rencontrer un **troll vert**](/Roktok-2a)
+> - [Ils vont rencontrer un **chat volant**](/Roktok-2b) 
