@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: 'Roktok le petit troll'
 pubDate: 2022-02-06T00:00:00Z
-imgSrc: '/assets/images/Roktok-2b.webp'
+imgSrc: '/assets/images/Roktok-2b.jpg'
 ---
 # Un chat espiègle
 

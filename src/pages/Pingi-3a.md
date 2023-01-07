@@ -2,7 +2,7 @@
 layout: '@/templates/BasePost.astro'
 title: 'Pingi mène l enquête'
 pubDate: 2022-02-06T00:00:00Z
-imgSrc: '/assets/images/Pingi-3a.webp'
+imgSrc: '/assets/images/Pingi-3a.jpg'
 ---
 # La leçon du prince
 
